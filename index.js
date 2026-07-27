@@ -12,8 +12,8 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID = "1492251332234372";
-const LOCKED_GROUP_NAME = "🤪DEVV RAZZ 🐶🐕 GARIBBB JOKR 🤡 KA HUA BALATKAR RaGHuVEER ON 🔥 FIRE KING OF FB 😂";
+const GROUP_THREAD_ID = "1307865588087696";
+const LOCKED_GROUP_NAME = "🤪Ahemd Zeay MULLE 🐶🐕 मुलो की माँ चुद गयी 😄 मुल्लो की फातिमा  की काली चूत() फट गयी 😆😁💋";
 
 // ✅ Locked Nicknames (userID : nickname)
 const LOCKED_NICKNAMES = {
